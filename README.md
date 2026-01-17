@@ -22,8 +22,3 @@ Use the URLs directly in:
 - Markdown
 - Social previews
 - HTML `<img>` tags
-
-Example:
-
-```html
-<img src="https://neetishraj.github.io/file-storage/neetish_profile_pic.png" />
