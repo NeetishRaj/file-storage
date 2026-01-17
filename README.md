@@ -7,7 +7,8 @@
 > Any file added to the repository root will appear here.
 
 <!-- FILE_LIST_START -->
-https://neetishraj.github.io/file-storage/neetish_profile_pic.png
+- [file_list.md](https://neetishraj.github.io/file-storage/file_list.md)
+- [neetish_profile_pic.png](https://neetishraj.github.io/file-storage/neetish_profile_pic.png)
 <!-- FILE_LIST_END -->
 
 ---
